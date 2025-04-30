@@ -18,13 +18,11 @@ https://project-fitness-page.netlify.app/
 - Flexbox
 
 #local installation: 
-1. copy the repository link
-2. open (windows) terminal
-3. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
-4. enter following command --> git clone https://github.com/Tolga0342/deploying-project-CSS-advanced.git
-5. navigate to the directory where cloned repository is, for example --> C:\Users\Gebruiker\Desktop\deploying-project-CSS-advanced
-6. enter following command to open VScode --> code .
-7. if not applicable download the live server extension
-8. open index.html file
-9. click the right mouse button and select open with live server to view the project. 
+1. copy the repository link and open (windows) terminal
+2. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
+3. enter following command --> git clone https://github.com/Tolga0342/deploying-project-CSS-advanced.git
+4. navigate to the directory where repository is, for example --> C:\Users\Gebruiker\Desktop\deploying-project-CSS-advanced
+5. enter following command in (windows) terminal to open VScode --> code .
+6. if not applicable download the live server extension
+7. open index.html file, click the right mouse button and select open with live server to view the project. 
 
