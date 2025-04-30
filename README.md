@@ -17,4 +17,9 @@ https://project-fitness-page.netlify.app/
 - CSS Grid
 - Flexbox
 
+#local installation: 
+1. copy the repository link
+2. open (windows) terminal
+3. choose your directory, for example --> C:\Users\Gebruiker\Desktop\
+4. enter following command --> git clone 
 
