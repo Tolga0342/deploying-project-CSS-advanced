@@ -25,5 +25,5 @@ https://project-fitness-page.netlify.app/
 5. navigate to the directory where cloned repository is, for example --> C:\Users\Gebruiker\Desktop\deploying-project-CSS-advanced
 6. enter following command to open VScode --> code . 
 7. open index.html file
-8. click the right mouse button and select live server to view the project. 
+8. click the right mouse button and select open with live server to view the project. 
 
