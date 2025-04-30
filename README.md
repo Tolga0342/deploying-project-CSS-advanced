@@ -2,7 +2,7 @@
 Fitness Page 
 
 #description:
-I created a responsive fitness page with HTML and CSS. The page is not interactive. 
+Responsive fitness page created with HTML and CSS. The page is not interactive. 
 
 #live-demo:
 https://project-fitness-page.netlify.app/
