@@ -1,23 +1,24 @@
-#project:
+# project
+
 Fitness Page 
 
-#description:
-Responsive fitness page created with HTML and CSS. The page is not interactive. 
-
-#live-demo:
+# live-demo
 https://project-fitness-page.netlify.app/
 
-#technologies used: 
+# description
+Responsive fitness page created with HTML and CSS. The page is not interactive. 
+
+# technologies used
 - HTML
 - CSS
 
-#features:
+# features
 - Responsive lay-out
 - Custom CSS properties
 - CSS Grid
 - Flexbox
 
-#local installation: 
+# local installation
 1. copy the repository link and open (windows) terminal
 2. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
 3. enter following command --> git clone https://github.com/Tolga0342/deploying-project-CSS-advanced.git
